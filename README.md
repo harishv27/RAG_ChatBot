@@ -78,13 +78,13 @@ Answer + SEBI compliance disclaimer
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/nemi-wealth-rag.git
-cd nemi-wealth-rag
+git clone https://github.com/harishv27/RAG_ChatBot.git
+cd RAG_ChatBot
 ```
 
 **2. Open notebook in Google Colab**
 
-Upload `Nemi_Wealth_RAG.ipynb` at [colab.research.google.com](https://colab.research.google.com)
+Upload `RAG_System_Nemi_Wealth.ipynb` at [colab.research.google.com](https://colab.research.google.com)
 
 **3. Run Step 1 — install packages**
 
